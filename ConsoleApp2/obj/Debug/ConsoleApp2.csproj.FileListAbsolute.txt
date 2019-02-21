@@ -1,0 +1,6 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

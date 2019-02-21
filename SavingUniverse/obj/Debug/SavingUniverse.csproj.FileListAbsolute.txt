@@ -1,0 +1,6 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\SavingUniverse\bin\Debug\SavingUniverse.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\SavingUniverse\bin\Debug\SavingUniverse.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\SavingUniverse\bin\Debug\SavingUniverse.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\SavingUniverse\obj\Debug\SavingUniverse.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\SavingUniverse\obj\Debug\SavingUniverse.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\SavingUniverse\obj\Debug\SavingUniverse.pdb

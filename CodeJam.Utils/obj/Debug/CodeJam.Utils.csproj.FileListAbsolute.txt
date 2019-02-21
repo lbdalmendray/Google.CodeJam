@@ -1,0 +1,6 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\CodeJam.Utils\bin\Debug\CodeJam.Utils.dll
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\CodeJam.Utils\bin\Debug\CodeJam.Utils.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\CodeJam.Utils\obj\Debug\CodeJam.Utils.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\CodeJam.Utils\obj\Debug\CodeJam.Utils.dll
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\CodeJam.Utils\obj\Debug\CodeJam.Utils.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\CodeJam.Utils\obj\Debug\CodeJam.Utils.csprojResolveAssemblyReference.cache

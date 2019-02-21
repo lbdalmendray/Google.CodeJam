@@ -1,0 +1,7 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AlphabetCake\bin\Debug\AlphabetCake.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AlphabetCake\bin\Debug\AlphabetCake.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AlphabetCake\bin\Debug\AlphabetCake.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AlphabetCake\obj\Debug\AlphabetCake.csprojResolveAssemblyReference.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AlphabetCake\obj\Debug\AlphabetCake.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AlphabetCake\obj\Debug\AlphabetCake.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AlphabetCake\obj\Debug\AlphabetCake.pdb

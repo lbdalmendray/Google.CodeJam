@@ -1,0 +1,7 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\MysteriousRoadSigns\bin\Debug\MysteriousRoadSigns.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\MysteriousRoadSigns\bin\Debug\MysteriousRoadSigns.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\MysteriousRoadSigns\bin\Debug\MysteriousRoadSigns.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\MysteriousRoadSigns\obj\Debug\MysteriousRoadSigns.csprojResolveAssemblyReference.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\MysteriousRoadSigns\obj\Debug\MysteriousRoadSigns.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\MysteriousRoadSigns\obj\Debug\MysteriousRoadSigns.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\MysteriousRoadSigns\obj\Debug\MysteriousRoadSigns.pdb

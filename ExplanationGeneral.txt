@@ -1,0 +1,12 @@
+Author : Luis Benavides Dalmendray . 
+
+These are my solutions to some Google.CodeJam Problems . Maybe some of them are not finished . 
+
+Have fun ! 
+
+Google Code Jam contest participation
+Apr 2018
+nickname: lbdalmendray
+
+https://codejam.withgoogle.com/2018/challenges/00000000000000cb/scoreboard/4258
+https://codejam.withgoogle.com/2018/challenges/0000000000007765/scoreboard/2925

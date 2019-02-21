@@ -1,0 +1,7 @@
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\EdgyBaking\obj\Debug\EdgyBaking.csprojResolveAssemblyReference.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\EdgyBaking\obj\Debug\EdgyBaking.csproj.CoreCompileInputs.cache
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\EdgyBaking\bin\Debug\EdgyBaking.exe.config
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\EdgyBaking\bin\Debug\EdgyBaking.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\EdgyBaking\bin\Debug\EdgyBaking.pdb
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\EdgyBaking\obj\Debug\EdgyBaking.exe
+E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\EdgyBaking\obj\Debug\EdgyBaking.pdb
