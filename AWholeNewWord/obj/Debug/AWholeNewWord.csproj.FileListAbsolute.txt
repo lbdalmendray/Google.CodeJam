@@ -1,7 +1,0 @@
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AWholeNewWord\bin\Debug\AWholeNewWord.exe.config
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AWholeNewWord\bin\Debug\AWholeNewWord.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AWholeNewWord\bin\Debug\AWholeNewWord.pdb
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AWholeNewWord\obj\Debug\AWholeNewWord.csprojResolveAssemblyReference.cache
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AWholeNewWord\obj\Debug\AWholeNewWord.csproj.CoreCompileInputs.cache
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AWholeNewWord\obj\Debug\AWholeNewWord.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\AWholeNewWord\obj\Debug\AWholeNewWord.pdb

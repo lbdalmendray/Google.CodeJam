@@ -1,9 +1,0 @@
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\bin\Debug\SmallInput\A-small-practice.in
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\bin\Debug\ProblemA.exe.config
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\bin\Debug\ProblemA.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\bin\Debug\ProblemA.pdb
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\obj\Debug\ProblemA.csproj.CoreCompileInputs.cache
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\obj\Debug\ProblemA.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\obj\Debug\ProblemA.pdb
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\bin\Debug\LargeInput\A-large-practice.in
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\ProblemA\obj\Debug\ProblemA.csprojResolveAssemblyReference.cache

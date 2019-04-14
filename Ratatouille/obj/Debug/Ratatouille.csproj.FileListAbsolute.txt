@@ -1,6 +1,0 @@
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\Ratatouille\bin\Debug\Ratatouille.exe.config
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\Ratatouille\bin\Debug\Ratatouille.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\Ratatouille\bin\Debug\Ratatouille.pdb
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\Ratatouille\obj\Debug\Ratatouille.csproj.CoreCompileInputs.cache
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\Ratatouille\obj\Debug\Ratatouille.exe
-E:\Luis\My Documents\My Documents Now 7-10-2017\Visual Studio 2017\Projects\Google.CodeJam\Ratatouille\obj\Debug\Ratatouille.pdb
