@@ -5,8 +5,16 @@ These are my solutions to some Google.CodeJam Problems . Maybe some of them are 
 Have fun ! 
 
 Google Code Jam contest participation
-Apr 2018
-nickname: lbdalmendray
 
-https://codejam.withgoogle.com/2018/challenges/00000000000000cb/scoreboard/4258
-https://codejam.withgoogle.com/2018/challenges/0000000000007765/scoreboard/2925
+Google Code Jam 2019
+Nickname:lbdalmendray
+Round 1C 2019: 3897th: https://codingcompetitions.withgoogle.com/codejam/round/00000000000516b9
+Round 1A 2019: 3005th: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635
+Qualification Round 2019: 26230th: https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705
+
+Google Code Jam 2018 :
+Nickname:lbdalmendray.
+Round 1C 2018: 2925th: https://codingcompetitions.withgoogle.com/codejam/round/0000000000007765
+Round 1B 2018: 2435th: https://codingcompetitions.withgoogle.com/codejam/round/0000000000007764
+Qualification Round 2018: 4258th: https://codingcompetitions.withgoogle.com/codejam/round/00000000000000cb
+
