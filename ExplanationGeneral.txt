@@ -18,3 +18,5 @@ Round 1C 2018: 2925th: https://codingcompetitions.withgoogle.com/codejam/round/0
 Round 1B 2018: 2435th: https://codingcompetitions.withgoogle.com/codejam/round/0000000000007764
 Qualification Round 2018: 4258th: https://codingcompetitions.withgoogle.com/codejam/round/00000000000000cb
 
+This is a Visual Studio 2019 Solution of C# .Net Framework Class Library Projects and Unit Test Projects.
+
